@@ -2,7 +2,7 @@
 My linux dotfiles for :
 - alacritty
 - lunarvim
-- 
+
 <pre>
 (base) ➜  ~ neofetch
                      ./o.                  user@user-nitroan51554 
