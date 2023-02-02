@@ -18,7 +18,7 @@ My linux dotfiles for :
   `:////ssssssssssssssssssssssssssso+++.   WM: KWin 
 `-////+ssssssssssssssssssssssssssso++++-   Theme: Dracula [Plasma], Breeze [GTK2/3] 
  `..-+oosssssssssssssssssssssssso+++++/`   Icons: candy-icons [Plasma], candy-icons [GTK2/3] 
-   ./++++++++++++++++++++++++++++++/:.     Terminal: yakuake 
+   ./++++++++++++++++++++++++++++++/:.     Terminal: alacritty 
   `:::::::::::::::::::::::::------``       CPU: Intel i5-9300H (8) @ 4.100GHz 
                                            GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
                                            GPU: NVIDIA GeForce GTX 1660 Ti Mobile 
