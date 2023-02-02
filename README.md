@@ -3,7 +3,7 @@ My linux dotfiles for :
 - alacritty
 - lunarvim
 - 
-<!-- language: lang-none -->
+<pre>
 (base) ➜  ~ neofetch
                      ./o.                  user@user-nitroan51554 
                    ./sssso-                ---------------------- 
