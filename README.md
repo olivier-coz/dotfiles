@@ -3,7 +3,7 @@ My linux dotfiles for :
 - alacritty
 - lunarvim
 
-(base) ➜  ~ neofetch
+"(base) ➜  ~ neofetch
                      ./o.                  user@user-nitroan51554 
                    ./sssso-                ---------------------- 
                  `:osssssss+-              OS: EndeavourOS Linux x86_64 
@@ -21,4 +21,4 @@ My linux dotfiles for :
   `:::::::::::::::::::::::::------``       CPU: Intel i5-9300H (8) @ 4.100GHz 
                                            GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
                                            GPU: NVIDIA GeForce GTX 1660 Ti Mobile 
-                                           Memory: 5726MiB / 11803MiB 
+                                           Memory: 5726MiB / 11803MiB"
