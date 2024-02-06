@@ -3,6 +3,8 @@ My linux dotfiles for :
 - alacritty
 - lunarvim
 
+<pre>
+
 (base) ➜  ~ neofetch
                      ./o.                  user@lenovo14 
                    ./sssso-                ------------- 
@@ -21,5 +23,6 @@ My linux dotfiles for :
   `:::::::::::::::::::::::::------``       CPU: 13th Gen Intel i5-13420H (12) @ 4.600GHz 
                                            GPU: Intel Raptor Lake-P [UHD Graphics] 
                                            Memory: 4398MiB / 15720MiB 
+</pre>
 
 
