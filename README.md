@@ -1,5 +1,6 @@
 # Dotfiles
 My linux dotfiles for :
+- FIXING CEDILLA ON US INTERNATIONAL KEYBOARD !!!
 - alacritty
 - lunarvim
 
